@@ -1,0 +1,38 @@
+h1 {
+
+	color: #811DEC;
+	text-align:center;
+
+}
+
+body {
+
+	background-color: #87DBEC;
+}
+
+input {
+
+	width: 100%;
+	text-align:  center;
+	font-size: 150%;
+	color: #8439D5;
+
+}
+
+form {
+
+	width: 480px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+
+fieldset {
+
+	text-align:  center;
+}
+
+p {
+
+	text-align: center;
+}
